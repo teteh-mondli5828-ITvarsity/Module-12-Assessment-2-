@@ -1,0 +1,52 @@
+#table{
+    color: whitesmoke;
+    margin-top: 60px;
+    
+}
+
+body{
+    background-color: aquamarine;
+}
+
+button{
+    color: cornflowerblue;
+    align-content: center;
+    background-color: black;
+}
+
+td{
+    padding: 25px 150px 25px 20px;
+    height: 80px;
+    width: 100%;
+    
+}
+
+td img{
+    width: 150px;
+    padding-left: 50px;
+}
+
+td h5{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+#editform{
+    color: yellow;
+    text-transform: uppercase;
+    padding: 30 0 30 30;
+}
+
+#editform input{
+    margin-left: 60px;
+    text-align: end;
+    text-decoration: none;
+    font-family: fantasy;
+    color: darkorange;
+    background-color: bisque;
+}
+
+#avatarImage{
+    margin-left: 150;
+    margin-top: 30px;
+}
